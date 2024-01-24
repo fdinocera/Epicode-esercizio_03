@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#titolo-testata {
+    color: rgb(16, 119, 119);
+    background-color: rgb(235, 227, 205);
+    padding: 1em;
+    border-top: solid 1px;
+    border-top-color: rgb(255, 187, 0);
+}
+
+ul {
+    text-align: center;
+}
+
+figcaption {
+    color: rgb(99, 99, 99)
+}
+
+
+
+#ppp {
+
+    color: argb(#004d4cff);
+    /* background-color: rgba(#fdfbf1ff); */
+
+    background-color: red;
+    margin: 0 0 0 0;
+    padding: 1em;
+}
+
+#featured{
+    text-align: left;
+    border-left: 2px solid;
+    border-color: red;
+    padding-left: 15px;    
+}
